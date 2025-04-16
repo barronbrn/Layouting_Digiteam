@@ -1,4 +1,10 @@
 <resources>
+
+    <!--
+        Nama    : Dani Herawan
+        NIM     : 10122331
+        Kelas   : P.ANDRO 4
+    -->
     <string name="app_name">Layouting_Digiteam</string>
     <string name="nama_app">DigiTeam</string>
     <string name="text_1_app">Digital Together Everyone Achieve More</string>

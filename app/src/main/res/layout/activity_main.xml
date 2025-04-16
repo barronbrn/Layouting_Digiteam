@@ -7,6 +7,11 @@
     android:background="@color/gray50"
     tools:context=".MainActivity">
 
+<!--
+    Nama    : Dani Herawan
+    NIM     : 10122331
+    Kelas   : P.ANDRO 4
+-->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

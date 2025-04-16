@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!--
+        Nama    : Dani Herawan
+        NIM     : 10122331
+        Kelas   : P.ANDRO 4
+    -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="green50">#E6F6EC</color>
