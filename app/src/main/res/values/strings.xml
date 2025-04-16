@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Layouting_Digiteam</string>
+    <string name="nama_app">DigiTeam</string>
+    <string name="text_1_app">Digital Together Everyone Achieve More</string>
+    <string name="text_2_app">Jabar Digital Service</string>
+    <string name="nama">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="job">UI Designer</string>
+    <string name="int_jamkerja">130.53 Jam</string>
+    <string name="jml_jamkerja">Jumlah Jam Kerja Kamu Bulan Ini : 130.53 Jam</string>
+
+
+</resources>
